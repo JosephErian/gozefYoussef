@@ -16,8 +16,8 @@
 <br>
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,django,flask,git,react,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,git,react,graphql" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,threejs,vite,express,jest,bash,figma,vscode,aws,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,threejs,vite,express,jest,bash,figma,aws,mongodb,docker" />
 </p><br>
 <hr>
