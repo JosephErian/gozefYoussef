@@ -1,5 +1,5 @@
 <h3 align="center">Hey there, I'm Gozef Youssef - aka <a href="https://portfolio-n6sz.onrender.com/">JoeToCode<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer;Motivated+%7C+Tech+Geek;Football+Player+%7C+Chess+Player" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Web+Developer;Motivated+%7C+Tech+Geek;Football+Player+%7C+Chess+Player" alt="Typing SVG" /></a>
     
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Joseph%20Erian&url=https://portfolio-n6sz.onrender.com/)](https://portfolio-n6sz.onrender.com/)
 
